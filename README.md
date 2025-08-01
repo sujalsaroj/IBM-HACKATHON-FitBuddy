@@ -19,8 +19,8 @@
 
 ##  Screenshots
 
+<img width="1919" height="905" alt="Screenshot 2025-08-01 143336" src="https://github.com/user-attachments/assets/72b02d17-7d13-487b-a299-e6a291f96d37" />
 
-<img width="943" height="707" alt="Screenshot 2025-07-28 185258" src="https://github.com/user-attachments/assets/ab6e9b2c-0f8d-4571-8b35-49f53ab3e9e6" />
 
 
 ##  How It Works
