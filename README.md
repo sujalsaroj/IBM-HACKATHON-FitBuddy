@@ -19,7 +19,8 @@
 
 ##  Screenshots
 
-<img width="1919" height="905" alt="Screenshot 2025-08-01 143336" src="https://github.com/user-attachments/assets/72b02d17-7d13-487b-a299-e6a291f96d37" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/4946983e-aa1b-4a2a-9613-8e2721b88bc9" />
+
 
 
 
